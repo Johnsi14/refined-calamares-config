@@ -1,1 +1,1 @@
-# Carli Calamares config
+# RefinedArch Calamares config
